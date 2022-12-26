@@ -36,7 +36,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
   ii. However, the variance of Lot 3 shows 170.3 PSI, which is outside of the design specification requirements.
 
   - total variance
-  ![total_summary](analysis/total_summary.png)
+
+![total_summary](analysis/total_summary.png)
 
 
   - lot variance
